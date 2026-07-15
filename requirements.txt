@@ -20,3 +20,4 @@ transformers
 accelerate
 numpy
 pandas
+langchain-text-splitters
